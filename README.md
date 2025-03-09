@@ -2,7 +2,7 @@
 
 A 2D arcade-style game developed in Python using the Pygame library. This project demonstrates fundamental game mechanics such as sprite animation, collision detection, scoring, and sound effects. It’s designed both as an engaging game experience and as a learning tool for aspiring game developers.
 
-![Game Preview](Media/Python Game.gif)
+![Game Preview](Media/PythonGame.gif)
 
 ## Overview
 
